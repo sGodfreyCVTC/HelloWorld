@@ -1,0 +1,1 @@
+document.write("<h2>Hello From JavaScript<h2>")
